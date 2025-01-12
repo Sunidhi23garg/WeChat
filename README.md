@@ -2,9 +2,9 @@
 This project is a real-time chat application that allows users to connect with others, send messages, and join a conversation seamlessly. Built with Socket.IO for real-time communication, Express for the backend, and HTML, CSS, and JavaScript for the frontend. 🚀
 
 ## Features 🌟
-1. Real-Time Messaging: Users can send and receive messages instantly. ⚡
-2. User Authentication: Allows users to join the chat by entering their name. 👤
-3. Responsive Design: The application is mobile-friendly and responsive. 📱
+- Real-Time Messaging: Users can send and receive messages instantly. ⚡
+- User Authentication: Allows users to join the chat by entering their name. 👤
+- Responsive Design: The application is mobile-friendly and responsive. 📱
 
 ## Tech Stack 🛠️
 - Backend: Node.js, Express, Socket.IO
